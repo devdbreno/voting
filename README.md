@@ -1,2 +1,3 @@
-# voting
-Voting Application
+# Voting
+
+_A simple voting application_
